@@ -1,6 +1,6 @@
 <?php
 /**
- * Plugin Name: Jetpack without Promotions
+ * Plugin Name: Jetpack Without Promotions
  * Plugin URI:  https://github.com/wearerequired/hide-jetpack-promotions
  * Description: Removes all admin notices for promotions added by Jetpack.
  * Version:     1.0.0

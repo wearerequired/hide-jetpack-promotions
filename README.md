@@ -1,4 +1,4 @@
-# Jetpack without Promotions #
+# Jetpack Without Promotions #
 
 * Contributors: wearerequired, ocean90
 * Tags: jetpack, promotions
