@@ -12,7 +12,12 @@ Removes all admin notices for promotions added by Jetpack.
 
 ## Description ##
 
-This plugin helps you to declutter your WordPress admin by removing all Jetpack related notices that promote services like backup services or WordPress Apps. 
+This plugin helps you to declutter your WordPress admin by removing all Jetpack related notices that promote services like the backup services VaultPress or WordPress Apps.
+
+## Screenshots ##
+
+1. Admin notices likes this will be removed.
+2. Promotions like this one will also be removed.
 
 ## Changelog ##
 
