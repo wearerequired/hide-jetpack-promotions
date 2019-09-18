@@ -5,9 +5,14 @@
   "license": "GPL-2.0+",
   "authors": [
     {
-      "name": "required+",
-      "email": "support@required.ch",
-      "homepage": "https://required.ch",
+      "name": "required",
+      "email": "info@required.com",
+      "homepage": "https://required.com",
+      "role": "Company"
+    },
+    {
+      "name": "Dominik Schilling",
+      "email": "dominik@required.com",
       "role": "Developer"
     }
   ],

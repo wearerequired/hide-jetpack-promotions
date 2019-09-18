@@ -3,7 +3,7 @@
  * Plugin Name: Jetpack Without Promotions
  * Plugin URI:  https://github.com/wearerequired/hide-jetpack-promotions
  * Description: Removes all admin notices for promotions added by Jetpack.
- * Version:     1.0.0
+ * Version:     1.1.0
  * Author:      required
  * Author URI:  https://required.com
  * License:     GPL-2.0+
@@ -28,6 +28,5 @@
  * @package Required\HideJetpackPromotions
  */
 
-add_filter( 'can_display_jetpack_manage_notice', '__return_false', 20 );
 add_filter( 'jetpack_just_in_time_msgs', '__return_false', 20 );
 add_filter( 'jetpack_show_promotions', '__return_false', 20 );
