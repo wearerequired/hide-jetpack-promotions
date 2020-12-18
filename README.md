@@ -1,13 +1,13 @@
 # Jetpack Without Promotions #
 
-* Contributors: wearerequired, ocean90
-* Tags: jetpack, promotions
-* Requires at least: 4.7
-* Tested up to: 5.5
-* Requires PHP: 5.2
-* Stable tag: 1.1.0
-* License: GPLv2 or later
-* License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Contributors: wearerequired, ocean90  
+Tags: jetpack, promotions  
+Requires at least: 4.7  
+Tested up to: 5.6  
+Requires PHP: 5.2  
+Stable tag: 1.1.0  
+License: GPLv2 or later  
+License URI: http://www.gnu.org/licenses/gpl-2.0.html  
 
 Removes all admin notices for promotions added by Jetpack.
 
