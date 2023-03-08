@@ -3,7 +3,7 @@
 Contributors: wearerequired, ocean90  
 Tags: jetpack, promotions  
 Requires at least: 4.7  
-Tested up to: 6.0  
+Tested up to: 6.2  
 Requires PHP: 5.2  
 Stable tag: 1.1.0  
 License: GPLv2 or later  
@@ -13,7 +13,7 @@ Removes all admin notices for promotions added by Jetpack.
 
 ## Description ##
 
-This plugin helps you to declutter your WordPress admin by removing all Jetpack related notices that promote services like the backup services VaultPress or WordPress Apps.
+This plugin helps you to declutter your WordPress admin by removing all Jetpack related notices that promote services like the backup services VaultPress, WordPress Apps or Blaze.
 
 ## Screenshots ##
 
@@ -21,6 +21,9 @@ This plugin helps you to declutter your WordPress admin by removing all Jetpack 
 2. Promotions like this one will also be removed.
 
 ## Changelog ##
+
+### 1.2.0 ##
+* Disable Jetpack's Blaze functionality.
 
 ### 1.1.0 ###
 * Avoid a deprecation warning by removing a filter for the "Manage" module which no longer can be disabled.
