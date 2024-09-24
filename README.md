@@ -3,7 +3,7 @@
 Contributors: wearerequired, ocean90  
 Tags: jetpack, promotions  
 Requires at least: 4.7  
-Tested up to: 6.2  
+Tested up to: 6.6  
 Requires PHP: 5.2  
 Stable tag: 1.2.0  
 License: GPLv2 or later  
